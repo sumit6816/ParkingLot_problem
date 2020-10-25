@@ -23,5 +23,5 @@ We interact with the system via a file-based input system, i.e. it should accept
 2)clone this project in any directory. <br/>
 3) Then using the terminal window go to folder in which this project is downloaded <br/>
 4) run command-  npm install                  // this willl install all the dependencies and node_modules folder will be created <br/>
-5) Run command- node main.js demo.txt         // main.js is th entry point and demo.txt is simple text file which contains all the commands <br/>
+5) Run command- node main.js demo.txt         // main.js is the entry point and demo.txt is simple text file which contains all the commands <br/>
 
