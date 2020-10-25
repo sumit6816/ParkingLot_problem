@@ -15,8 +15,8 @@ We interact with the system via a file-based input system, i.e. it should accept
 1)To get the vehicles registeration numbers of all the cars whose driver age  equals to given age => this can be find O(1) time hashmap is used which stores ages as the key and array of registeration numbner as values. <br/>
 2) To get the slot number of the given registeration number => o(1) time -hashmap is used which stores slot number as a key and registeration number as a value. <br/>
 3)To get the slot numbers whose driver age is equal to given age-> o(1). <br/>
-4)To find the avalable slot which is nearest to the entry point-> o(log(N)) priority queue is used which gives the minimum available slot in O(logN)  time . <br/>
-5) One aray of objects is used in which at each  index represent the slot number and values represent the regiteration number,age of the driver which nis used to display the current statu sthe parking lot. <br/>
+4)To find the available slot which is nearest to the entry point-> o(log(N)) priority queue is used which gives the minimum available slot in O(logN)  time . <br/>
+5) One array of objects is used in which at each  index represent the slot number and values represent the registeration number,age of the driver which is used to display the current status of the parking lot. <br/>
 
 ## Instructions to run the code
 1)install nodejs from here https://nodejs.org/en/download/ <br/>
