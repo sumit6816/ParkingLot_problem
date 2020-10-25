@@ -20,7 +20,7 @@ We interact with the system via a file-based input system, i.e. it should accept
 
 ## Instructions to run the code
 1)install nodejs from here https://nodejs.org/en/download/ <br/>
-2)clone this project in any directory. <br/>
+2)clone this project in any directory. using command- git clone https://github.com/sumit6816/ParkingLot_problem.git  OR just download the zip file and extract<br/>
 3) Then using the terminal window go to folder in which this project is downloaded <br/>
 4) run command-  npm install                  // this willl install all the dependencies and node_modules folder will be created <br/>
 5) Run command- node main.js demo.txt         // main.js is the entry point and demo.txt is simple text file which contains all the commands <br/>
